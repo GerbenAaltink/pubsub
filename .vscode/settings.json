@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "assert.h": "c",
+        "initializer_list": "c",
+        "stdbool.h": "c",
+        "pubsubs.h": "c",
+        "inet.h": "c",
+        "stdio.h": "c",
+        "fcntl.h": "c",
+        "in.h": "c",
+        "ctype.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "netdb.h": "c"
+    }
+}
